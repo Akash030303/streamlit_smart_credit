@@ -14,7 +14,7 @@ from io import BytesIO
 PDF_FOLDER = "pdf"
 os.makedirs(PDF_FOLDER, exist_ok=True)
 
-st.set_page_config(page_title="Bharat Bank - Credit Assessment", layout="centered")
+st.set_page_config(page_title="Bharat Bank", layout="centered")
 
 st.title("🏦 Bharat Bank Credit Assessment Portal")
 
